@@ -1,0 +1,13 @@
+Aknad. Igal aknal laius ja kõrgus, raam ja leng
+
+Igal tootel 2 rida
+Päist 2 rida
+1 rida mõõdud
+2 rida valemid
+
+käsi - kummale poole avaneb
+
+klient ütleb parameetrid veergudes a-f
+Tuleb väljastada väljundparameetrid.
+
+Tootmisreeglid - Sheet1.csv
