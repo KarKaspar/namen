@@ -18,7 +18,7 @@ from mistralai import Mistral
 from app import WindowManufacturingApp
  
 # ── CONFIG ──────────────────────────────────────────────────────────────────
-MISTRAL_API_KEY = "RmAVBwtKVe0b8U0MbubujWQKdoitHJB1"   # <-- paste your key here
+MISTRAL_API_KEY = "Mistral_api"   # <-- paste your key here
 MISTRAL_MODEL   = "mistral-small-latest"
 CSV_FILE        = "Tootmisreeglid - Sheet1.csv"
 # ────────────────────────────────────────────────────────────────────────────
