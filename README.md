@@ -8,8 +8,8 @@ pandas
 
 bashpip install pandas
 
-Käivitamine
-bashpython3 /home/karl_kaspar/my-project1/src/kok.py
+Käivitamine on käsurealt: 
+python3 /home/karl_kaspar/my-project1/src/kok.py
 
 Sisendid
 SisendTüüpKirjeldusTüüp (A / TA)tekstAkna tüüp: A = aken, TA = topeltakenLaius (mm)numberKogu raami laius millimeetritesKõrgus (mm)numberKogu raami kõrgus millimeetritesKogus (tk)täisarvToodetavate akende arv
